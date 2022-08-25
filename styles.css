@@ -2,6 +2,7 @@
     width: 1440px;
     margin-left: 30px;
     margin: auto;
+    background-color: blue;
 }
 .nav_bar{
     display: flex;
